@@ -2,7 +2,7 @@
 
 💻Siber güvenlik ile ilgileniyorum.
 
-📌Python programlıyorum ve bu siber dünyayı öğrenmeye çalışıyorum.
+📌Python programlıyorum ve siber dünyayı öğrenmeye çalışıyorum.
 
 📩Bana ulaşmak için instagram: canemingozde.
 
