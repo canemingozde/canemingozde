@@ -4,7 +4,7 @@
 
 📌Python programlıyorum.
 
-📩Bana ulaşmak için instagram: canemingozde.
+📩instagram: canemingozde.
 
 
 <!---
