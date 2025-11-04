@@ -1,7 +1,5 @@
 # 👨‍💻 Emin Can Gözde | Etik Red Team Geliştirici (User-mode)
 
-### 
-
 ## Hakkımda  
 Ben Emin Can Gözde, siber güvenlik alanında kullanıcı düzeyinde (user-mode) tehdit 
 davranışlarının teknik olarak modellenmesi ve simülasyonuna odaklanan bir geliştiriciyim. 
