@@ -1,23 +1,28 @@
 # 👨‍💻 Emin Can Gözde | Etik Red Team Geliştirici (User-mode)
 
-Merhaba, ben **Emin Can Gözde**. Siber güvenlik alanında, kullanıcı düzeyinde (user-mode) 
-tehdit davranışlarının teknik olarak modellenmesi ve simülasyonuna odaklanan bir geliştiriciyim. 
+### Etik beyaz şapkalı hacker
+
+## Hakkımda  
+Ben Emin Can Gözde, siber güvenlik alanında kullanıcı düzeyinde (user-mode) tehdit 
+davranışlarının teknik olarak modellenmesi ve simülasyonuna odaklanan bir geliştiriciyim. 
 Çalışmalarım, özellikle antivirüs (AV) çözümlerinin davranışsal analiz yeteneklerinin 
-değerlendirilmesine yöneliktir.
+değerlendirilmesine yöneliktir.  
 
-Klasik güvenlik araçlarıyla çalışmıyorum; bunun yerine user-mode düzeyinde çalışan ve 
-AV çözümlerinin tehdit davranışlarını tetikleyen algoritmalar geliştiriyor ve programlıyorum. 
+Klasik güvenlik araçlarıyla çalışmıyorum; bu araçlar yerine, user-mode düzeyinde 
+çalışan ve antivirüs (AV) çözümlerinin tehdit davranışlarını tetikleyen algoritmalar 
+geliştiriyorum ve programlıyorum.  
+
 Bu kapsamda, çeşitli senaryoları izole sanal ortamlarda simüle ederek, güvenlik yazılımlarının 
-verdiği tepkileri gözlemlemeye yönelik çalışmalar yürütmekteyim.
+verdiği tepkileri gözlemlemeye yönelik çalışmalar yürütmekteyim. Ürettiğim içerikler yalnızca 
+teknik araştırma, eğitimsel amaçlar ve farkındalık oluşturma hedefiyle sınırlıdır. 
+Tüm çalışmalar kontrollü ve izole ortamlarda yürütülmekte olup, etik ilkelere bağlı şekilde 
+yalnızca davranışsal gözlem ve sistem tepkisi analizine yöneliktir.  
 
-> **Not:** Ürettiğim içerikler yalnızca teknik araştırma, eğitimsel amaçlar ve farkındalık
-> oluşturma hedefiyle sınırlıdır. Tüm çalışmalar kontrollü ve izole ortamlarda yürütülmekte olup,
-> etik ilkelere bağlı şekilde yalnızca davranışsal gözlem ve sistem tepkisi analizine yöneliktir.
+> **Not:** Etik ilkelere bağlı kalmak, bu alandaki en güçlü savunmadır.
 
 ---
 
-## 🔬 İlgi Alanlarım
-
+## 🔬 İlgi Alanlarım  
 - Kullanıcı düzeyinde tehdit davranışı modelleme  
 - Antivirüs yazılımlarının davranışsal tepkilerinin test edilmesi  
 - Python tabanlı özel test senaryoları geliştirme  
@@ -25,24 +30,15 @@ verdiği tepkileri gözlemlemeye yönelik çalışmalar yürütmekteyim.
 
 ---
 
-## 🎯 Araştırma Amacım
-
-Amacım, güvenlik yazılımlarının gerçekçi senaryolar karşısındaki tepkilerini anlamak ve bu alanda 
-teknik bilgi birikimi ile etik sorumlulukları bir araya getiren bir çalışma profili geliştirmektir.
-
----
-
-## ⚖️ Etik ve Yasal Çerçeve
-
-Bu platformda paylaşılan tüm içerikler yalnızca teknik araştırma,eğitim 
-ve farkındalık oluşturma amacı taşımaktadır. Tüm çalışmalar izole ve kontrollü ortamlarda 
-gerçekleştirilmekte olup, içerikler yalnızca davranışsal analiz ve simülasyon amaçlı kullanılmaktadır.
+## 🎯 Araştırma Amacım  
+Amacım, güvenlik yazılımlarının gerçekçi senaryolar karşısındaki tepkilerini 
+anlamak ve bu alanda teknik bilgi birikimi ile etik sorumlulukları bir araya getiren 
+bir çalışma profili geliştirmektir.
 
 ---
 
-## 📫 İletişim
-
-- GitHub: [canemingozde](https://github.com/canemingozde)
-- LinkedIn: (isteğe bağlı ekleyebilirsin)
-- Mail: (istersen ekleyebilirim)
+## ⚖️ Etik ve Yasal Çerçeve  
+Bu platformda paylaşılan tüm içerikler yalnızca teknik araştırma, eğitim ve farkındalık 
+oluşturma amacı taşımaktadır. Tüm çalışmalar izole ve kontrollü ortamlarda gerçekleştirilmekte 
+olup, içerikler yalnızca davranışsal analiz ve simülasyon amaçlı kullanılmaktadır.
 
