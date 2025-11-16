@@ -1,5 +1,5 @@
 # 👨‍💻 Emin Can Gözde | Etik Red Team Geliştirici (User-mode)
-⚪ Etik Beyaz Şapka Hacker
+⚪ Etik Beyaz Şapka Hacker 
 
 ## Hakkımda  
 Ben Emin Can Gözde, siber güvenlik alanında kullanıcı düzeyinde (user-mode) tehdit 
