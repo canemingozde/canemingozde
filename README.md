@@ -1,5 +1,4 @@
-# 👨‍💻 Emin Can Gözde | Etik Red Team Geliştirici (User-mode)
-⚪ Etik Beyaz Şapka Hacker 
+# 👨‍💻 Emin Can Gözde | Red Team Simulation Programmer (User‑mode)
 
 ## Hakkımda  
 Ben Emin Can Gözde, siber güvenlik alanında kullanıcı düzeyinde (user-mode) tehdit 
@@ -20,9 +19,9 @@ yalnızca davranışsal gözlem ve sistem tepkisi analizine yöneliktir.
 ---
 
 ## 🔬 İlgi Alanlarım  
-- Kullanıcı düzeyinde tehdit davranışı modelleme  
-- Antivirüs yazılımlarının davranışsal tepkilerinin test edilmesi  
-- Tehdit simülasyonu ve Red Team tekniklerinin etik uygulamaları
+- User‑mode davranış simülasyonu programlama
+- AV davranışlarını tetikleyen algoritmalar geliştirme 
+
 
 ---
 
