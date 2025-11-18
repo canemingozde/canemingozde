@@ -1,5 +1,7 @@
 # 👨‍💻 Emin Can Gözde | Red Team Simulation Programmer (User‑mode)
 
+## Ethical White Hat Hacker
+
 ## Hakkımda  
 Ben Emin Can Gözde, siber güvenlik alanında kullanıcı düzeyinde (user-mode) tehdit 
 davranışlarının teknik olarak modellenmesi ve simülasyonuna odaklanan bir geliştiriciyim. 
