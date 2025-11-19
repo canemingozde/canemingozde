@@ -1,6 +1,6 @@
 # 👨‍💻 Emin Can Gözde | Ethical White Hat Hacker
 
-## Niş Alanım: Red Team Simulation Programmer (User‑mode)
+## Niş Alanım: User‑mode threat simulation programmer
 
 ## Hakkımda  
 Ben Emin Can Gözde, siber güvenlik alanında kullanıcı düzeyinde (user-mode) tehdit 
