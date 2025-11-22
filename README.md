@@ -1,4 +1,6 @@
-# 👨‍💻 Emin Can Gözde | Red Team Endpoint Threat Simulation
+# 👨‍💻 Emin Can Gözde | Bilgisayar Programcısı   
+
+## Geniş Alan: Red Team Endpoint Threat Simulation
 
 ## Niş Alan: Malware Simulation Programmer (Security Testing) 
 
