@@ -15,6 +15,9 @@ Tüm çalışmalarımı izole sanal ortamlarda yürütüyor, yalnızca teknik ar
 oluşturma hedefiyle içerikler üretiyorum. Etik ilkelere bağlı kalarak, geliştirdiğim simülasyonlar yalnızca 
 davranışsal gözlem ve sistem tepkisi analizine yöneliktir  
 
+💻 Web Geliştirme Hizmetleri
+Aynı zamanda web geliştirme hizmeti de sunuyorum. Blog ve portfolyo web uygulamaları geliştiriyorum.
+
 ---
 
 ## 🔬 İlgi Alanlarım  
