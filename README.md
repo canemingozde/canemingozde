@@ -9,8 +9,8 @@ Ben Emin Can Gözde, siber güvenlik alanında kullanıcı düzeyinde (user‑mo
 simülasyon algoritmaları ile test eden bir programcıyım. Çalışmalarım, şu an için antivirüs (AV) çözümlerinin 
 davranışsal analiz yeteneklerinin değerlendirilmesine yöneliktir.
 
-Klasik güvenlik araçlarını kullanmıyorum, user‑mode düzeyinde çalışan ve AV çözümlerinin 
-tehdit davranışlarını tetikleyen simülasyon algoritmaları programlıyorum. Bu sayede güvenlik yazılımlarının 
+Klasik güvenlik araçlarını kullanmıyorum, User‑mode düzeyinde çalışan ve hem AV hem de EDR çözümlerinin
+tehdit davranışlarını tetikleyen simülasyon algoritmaları programlıyorum.. Bu sayede güvenlik yazılımlarının 
 farklı senaryolara verdiği tepkileri gözlemleme imkânı buluyorum.
 
 Tüm çalışmalarımı izole sanal ortamlarda yürütüyor, yalnızca teknik araştırma, eğitimsel amaçlar ve farkındalık 
