@@ -19,20 +19,38 @@ davranışsal gözlem ve sistem tepkisi analizine yöneliktir
 
 ## 🔬 İlgi Alanlarım  
 - User‑mode davranış simülasyonu programlama
-- AV davranışlarını tetikleyen algoritmalar geliştirme 
-
+- AV davranışlarını tetikleyen algoritmalar geliştirme
+- Endpoint Threat Simulation (uç nokta saldırı senaryoları)
+- EDR çözümlerinin davranışsal analizleri
+- SIEM log korelasyonu ve SOC olay müdahale süreçlerinin test edilmesi (çoklu cihaz senaryoları için)
+- Sosyal mühendislik farkındalık testleri
+- Siber güvenlik araştırmaları ve farkındalık çalışmaları
 
 ---
 
-## 🎯 Araştırma Amacım  
-Amacım, güvenlik yazılımlarının gerçekçi senaryolar karşısındaki tepkilerini 
-anlamak ve bu alanda teknik bilgi birikimi ile etik sorumlulukları bir araya getiren 
-bir çalışma profili geliştirmektir.
+## 🎯 Gelecek Hedeflerim
+Siber güvenlik alanındaki çalışmalarımı, yalnızca antivirüs (AV) çözümlerinin davranışsal analizleriyle 
+sınırlı tutmak istemiyorum. Yakın dönemde Endpoint Detection & Response (EDR) sistemlerini de test kapsamıma 
+dahil ederek, uç nokta tehdit simülasyonlarını daha geniş bir perspektifte yürütmeyi hedefliyorum.
+
+Uzun vadede, tek cihaz üzerinde yürütülen testlerin ötesine geçerek çoklu cihaz senaryolarında kurumların 
+SIEM altyapılarının log korelasyon yeteneklerini ve SOC ekiplerinin olay müdahale süreçlerini değerlendirmeyi hedefliyorum. 
+Bunun yanı sıra, EDR testlerini genişletmenin yanında sosyal mühendislik senaryoları geliştirerek kurumların insan faktörü 
+güvenliğini ölçmeyi ve farkındalık düzeylerini artırmayı amaçlıyorum
+
+Bu doğrultuda, kurumlara uç nokta saldırı simülasyonu hizmeti sunarak güvenlik ürünleri ve süreçlerinin uçtan uca test edilmesine 
+katkı sağlamayı planlıyorum.
 
 ---
 
 ## ⚖️ Etik ve Yasal Çerçeve  
-Bu platformda paylaşılan tüm içerikler yalnızca teknik araştırma, eğitim ve farkındalık 
-oluşturma amacı taşımaktadır. Tüm çalışmalar izole ve kontrollü ortamlarda gerçekleştirilmekte 
-olup, içerikler yalnızca davranışsal analiz ve simülasyon amaçlı kullanılmaktadır.
+Bu platformda paylaşılan tüm içerikler yalnızca teknik araştırma, eğitim ve güvenlik farkındalığı amacı taşır. 
+Çalışmalar izole ve kontrollü ortamlarda gerçekleştirilmekte olup, üretilen simülasyonlar sadece davranışsal 
+analiz ve sistem tepkisi gözlemi için kullanılmaktadır.
+
+
+## 🌍 Etik Çağrı
+Siber güvenlik alanında çalışan herkesin, bilgi ve becerilerini toplumsal fayda, eğitim ve güvenlik geliştirme 
+için kullanması gerektiğine inanıyorum. Teknoloji, kötüye kullanım için değil; kurumların ve bireylerin daha 
+güvenli bir dijital dünyada var olabilmesi için kullanılmalıdır.
 
