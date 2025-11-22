@@ -11,11 +11,11 @@ davranışsal analiz yeteneklerinin değerlendirilmesine yöneliktir.
 
 Klasik güvenlik araçlarını kullanmıyorum, User‑mode düzeyinde çalışan ve hem AV hem de EDR çözümlerinin
 tehdit davranışlarını tetikleyen simülasyon algoritmaları programlıyorum. Bu sayede farklı senaryolarda 
-güvenlik yazılımlarının verdiği tepkileri gözlemleyebiliyorum
+güvenlik yazılımlarının verdiği tepkileri gözlemleyebiliyorum.
 
 Tüm çalışmalarımı izole sanal ortamlarda yürütüyor, yalnızca teknik araştırma, eğitimsel amaçlar ve farkındalık 
 oluşturma hedefiyle içerikler üretiyorum. Etik ilkelere bağlı kalarak, geliştirdiğim simülasyonlar yalnızca 
-davranışsal gözlem ve sistem tepkisi analizine yöneliktir  
+davranışsal gözlem ve sistem tepkisi analizine yöneliktir.
 
 ---
 
