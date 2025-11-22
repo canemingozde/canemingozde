@@ -2,7 +2,7 @@
 
 ## 💻 Niş alan: Threat Simulation Programmer (User‑Mode)
 ## 🚩 Red Team & Endpoint Security Testing
-### 🌐 web geliştirme hizmeti de sunuyorum. Blog ve portfolyo web uygulamaları geliştiriyorum.
+### 🌐 Ayrıca web geliştirme hizmeti de sunuyorum. Blog ve portfolyo web uygulamaları geliştiriyorum.
 
 ## Hakkımda  
 Ben Emin Can Gözde, siber güvenlik alanında kullanıcı düzeyinde (user‑mode) tehdit davranışlarını 
