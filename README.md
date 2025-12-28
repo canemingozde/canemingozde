@@ -1,16 +1,26 @@
-## Hi there 👋
+# 💻 Emin Can Gözde
 
-<!--
-**canemingozde/canemingozde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben Emin Can Gözde, siber güvenlik alanında endpoint user‑mode tehdit davranışlarının 
+teknik modellemesi ve simülasyonu üzerine çalışan bir programcıyım. Amacım, güvenlik 
+ekiplerinin gerçekçi senaryolarla kendilerini test edebilmesini sağlamak.  
 
-Here are some ideas to get you started:
+Çalışmalarımda özellikle endpoint user‑mode davranışlarını tetikleyen simülasyon algoritmalarını 
+programlamaya odaklanıyorum. Bu sayede AV/EDR gibi güvenlik çözümlerinin davranışsal analiz tepkilerini 
+gözlemlemek mümkün oluyor. Bu durum, bu çözümlerin doğal görevlerini kontrollü şekilde gözlemlemeye olanak tanır.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SOC ekipleri için tasarladığım simülasyonlar, kontrollü, etik ve izole ortamlarda kullanılabiliyor. 
+Böylece gerçek saldırıların riskini taşımadan güvenlik ekiplerine pratik deneyim kazandırmayı hedefliyorum.  
+
+---
+
+## 🛡️ Etik Yaklaşımım
+
+Simülasyon senaryoları yalnızca kontrollü, izole ortamlarda kullanılmak üzere tasarlanmıştır.  
+Bu içerikler, güvenlik ekiplerine pratik deneyim ve farkındalık kazandırmak içindir.  
+Amacım, siber güvenlik alanında savunmayı güçlendirmek ve tehditlere karşı hazırlık seviyesini artırmaktır.  
+
+Tüm çalışmalarım savunmayı güçlendirmek için tasarlanır.  
+Senaryolarımın amacı, güvenlik ekiplerine güvenli bir şekilde deneyim kazandırmaktır.  
+Yanlış kullanım veya kötüye yönlendirme benim yaklaşımımla bağdaşmaz; önceliğim her zaman etik, 
+güvenli ve öğretici çözümler üretmektir.  
+
