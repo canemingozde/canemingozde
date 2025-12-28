@@ -15,7 +15,7 @@ Böylece gerçek saldırıların riskini taşımadan güvenlik ekiplerine pratik
 
 ## 🛡️ Etik Yaklaşımım
 
-Simülasyon senaryoları yalnızca kontrollü, izole ortamlarda kullanılmak üzere tasarlanmıştır.  
+🧩 Simülasyon senaryoları yalnızca kontrollü, izole ortamlarda kullanılmak üzere tasarlanmıştır.  
 Bu içerikler, güvenlik ekiplerine pratik deneyim ve farkındalık kazandırmak içindir.Amacım, 
 siber güvenlik alanında savunmayı güçlendirmek ve tehditlere karşı hazırlık seviyesini artırmaktır.  
 
