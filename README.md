@@ -31,5 +31,6 @@ güvenli ve öğretici çözümler üretmektir.
 dünya çapında uzun süredir uygulanmaktadır. Bu yaklaşım, güvenlik ekiplerinin gerçek saldırı 
 senaryolarını risk almadan deneyimlemesini sağlayarak savunma mekanizmalarını güçlendirmektedir. 
 Hali hazırda birçok kuruluş, bu tür hizmetleri kullanarak tehdit davranışlarını güvenli ve izole 
-ortamlarda test etmekte, zafiyetlerini önceden fark ederek hazırlık seviyelerini yükseltmektedir.
+ortamlarda test etmekte, zafiyetlerini önceden fark ederek hazırlık seviyelerini yükseltmekte 
+ve kendilerini eğitmektedir.
 
