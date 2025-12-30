@@ -16,10 +16,10 @@ Böylece gerçek saldırıların riskini taşımadan güvenlik ekiplerine pratik
 ## 🛡️ Etik Yaklaşımım
 
 🧩 Simülasyon senaryoları yalnızca kontrollü, izole ortamlarda kullanılmak üzere tasarlanmıştır.  
+
 Bu içerikler, güvenlik ekiplerine pratik deneyim ve farkındalık kazandırmak içindir.Amacım, 
 siber güvenlik alanında savunmayı güçlendirmek ve tehditlere karşı hazırlık seviyesini artırmaktır.  
 
-Tüm çalışmalarım savunmayı güçlendirmek için tasarlanır.Senaryolarımın amacı, güvenlik ekiplerine 
-güvenli bir şekilde deneyim kazandırmaktır.Yanlış kullanım veya kötüye yönlendirme benim yaklaşımımla 
-bağdaşmaz; önceliğim her zaman etik,güvenli ve öğretici çözümler üretmektir.  
+Yanlış kullanım veya kötüye yönlendirme benim yaklaşımımla bağdaşmaz; önceliğim her zaman etik,
+güvenli ve öğretici çözümler üretmektir.  
 
